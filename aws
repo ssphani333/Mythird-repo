@@ -5,3 +5,11 @@ they can access a vast array of services—including computing power, data stora
 databases—managed by Amazon's secure, global network of data centers. 
 This approach allows businesses of all sizes, from startups to large enterprises and government agencies, to l
 ower their IT costs, scale their operations instantly as needed, and innovate faster. 
+
+num = int(input("Enter an integer: "))
+if num % 2 == 0:
+    print(f"{num} is an even number.")
+else:
+    print(f"{num} is an odd number.")
+
+    New lines added 
